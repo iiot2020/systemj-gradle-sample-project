@@ -1,0 +1,8 @@
+import demo.Demo;
+
+CD->{
+	Demo demo = new Demo();
+	demo.printHelloWorld();
+	System.out.println("Hello no system");
+	pause;
+}
